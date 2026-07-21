@@ -1,2 +1,2 @@
-# MasterHandTracking
-sample project for hand tracking meta start workshop
+# Hand Tracking Template
+A unity project to demonstrate the hand tracking ecosystem on meta quest
